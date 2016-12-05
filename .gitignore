@@ -93,3 +93,4 @@ ENV/
 # LiClipse project settings
 .pydevproject
 .project
+.settings/
